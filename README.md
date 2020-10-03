@@ -5,13 +5,13 @@
 
 ---------------------------------------------------------------------------
 SMALL with DEFAULT TEXTURES<br>
-![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/main/screenshot01.png)
+![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/Extra_Textures/screenshot01.png)
 
 LARGE with DEFAULT TEXTURES<br>
-![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/main/screenshot02.png)
+![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/Extra_Textures/screenshot02.png)
 
 LARGE with Steamed_Punk TEXTURES<br>
-![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/main/screenshot01.png
+![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/Extra_Textures/screenshot03.png)
 
 ---------------------------------------------------------------------------
 
