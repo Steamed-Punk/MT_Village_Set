@@ -3,7 +3,16 @@
 **!!! This is a WORK IN PROGRESS  !!!**
 **!!! This is online for testing and receiving advice so as to make it work correctly  !!!**
 
-![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/master/screenshot.png)
+---------------------------------------------------------------------------
+SMALL with DEFAULT TEXTURES
+![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/master/screenshot01.png)
+
+LARGE with DEFAULT TEXTURES
+![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/master/screenshot02.png)
+
+LARGE with Steamed_Punk TEXTURES
+![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/master/screenshot03.png)
+---------------------------------------------------------------------------
 
 Each of the 2 folders contain 4 images. 1 PNG (alpha channel) and 3 JPG's
 
