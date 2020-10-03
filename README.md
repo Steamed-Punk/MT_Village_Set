@@ -2,6 +2,7 @@
 
 **!!! This is a WORK IN PROGRESS  !!!**<br>
 **!!! This is online for testing and receiving advice so as to make it work correctly  !!!**
+**!!! This mod uses complexe models and large textures, design for use PC's  !!!**
 
 ![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/main/screenshot.png)
 
