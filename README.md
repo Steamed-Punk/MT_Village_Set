@@ -16,7 +16,7 @@ The models and textures for this Minetest mod are
 # Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 - Copyright (C) 2019 - 2020 Steamed_Punk <steamedpunk.mt at gmail.com>
 - Forum Topic:
-- <https://forum.minetest.net/viewtopic.php?f=9&t=23279&p=356653#p356653>
+- <https://forum.minetest.net/viewtopic.php?f=9&t=25444>
 
 ---------------------------------------------------------------------------
 # Different source code Licenses.
