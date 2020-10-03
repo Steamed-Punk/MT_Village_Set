@@ -25,6 +25,8 @@ To use the different textures after downloading you only need to open the "LARGE
 This and all other files will be updated as and when the time is right. Please be patient while everything is under construction. Thank you.
 
 For all questions please use the forum on the the link below.
+
+- <https://forum.minetest.net/viewtopic.php?f=9&t=25444>
 ---------------------------------------------------------------------------
 
 The models and textures for this Minetest mod are
