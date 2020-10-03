@@ -2,8 +2,11 @@
 
 **!!! This is a WORK IN PROGRESS  !!!**
 **!!! This is online for testing and receiving advice so as to make it work correctly  !!!**
+
 Each of the 2 folders contain 4 images. 1 PNG (alpha channel) and 3 JPG's
+
 The 4 small images are 128x128 and each one is under 50kb they have that pixel look which corrsponds with Minetest.
+The 4 small LARGE images are 768x768 and each one is under 500kb except the PNG which is under 1mb.
 
 ![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/master/screenshot.png)
 
