@@ -3,17 +3,18 @@
 **!!! This is a WORK IN PROGRESS  !!!**
 **!!! This is online for testing and receiving advice so as to make it work correctly  !!!**
 
+![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/master/screenshot.png)
+
 Each of the 2 folders contain 4 images. 1 PNG (alpha channel) and 3 JPG's
 
 The 4 small images are 128x128 and each one is under 50kb they have that pixel look which corrsponds with Minetest.<br>
 The 4 small LARGE images are 768x768 and each one is under 500kb except the PNG which is under 1mb.
 
-![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/master/screenshot.png)
+To use the different textures after downloading you only need to open the "LARGE" folder and select all 4 images and replace the small ones in the texture folder in the MT_Village_Set MOD. Just select the "small" folder images if you want to revert back.
 
 This and all other files will be updated as and when the time is right. Please be patient while everything is under construction. Thank you.
 
-
-PLEASE! Let me know in the forum if I have forgotten you here.
+For all questions please use the forum on the the link below.
 ---------------------------------------------------------------------------
 
 The models and textures for this Minetest mod are
