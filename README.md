@@ -5,6 +5,8 @@
 
 ![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/master/screenshot.png)
 
+![Image description](https://github.com/Steamed-Punk/Native-American-Village/blob/master/screenshot.png)
+
 This and all other files will be updated as and when the time is right. Please be patient while everything is under construction. Thank you.
 
 
