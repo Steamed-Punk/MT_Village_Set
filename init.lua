@@ -9,6 +9,7 @@ local S, NS = dofile(MP.."/intllib.lua")
 
 
 dofile(path .. "/streetlight.lua") -- Steamed_Punk
+dofile(path .. "/nodes_invisible_walls.lua")
 dofile(path .. "/huts.lua") -- Steamed_Punk
 dofile(path .. "/well.lua") -- Steamed_Punk
 dofile(path .. "/organic.lua") -- Steamed_Punk
