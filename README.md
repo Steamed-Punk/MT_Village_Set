@@ -8,6 +8,11 @@
 
 This and all other files will be updated as and when the time is right. Please be patient while everything is under construction. Thank you.
 
+**!!!  WHATS IN THERE SO FAR!  !!!**<br>
+4 Huts - Shop, medic, armory, cottage<br>
+A street light<br>
+A well<br>
+D Red & Brown mushrooms
 
 PLEASE! Let me know in the forum if I have forgotten you here.
 ---------------------------------------------------------------------------
