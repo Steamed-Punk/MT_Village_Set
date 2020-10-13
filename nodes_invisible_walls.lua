@@ -1,3 +1,17 @@
+-- Licenses of media (3D Meshes and textures)
+-- ---------------------------------------
+
+-- Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+-- Copyright (C) 2019 - 2020 Steamed_Punk steamedpunk.mt at gmail.com
+
+-- ---------------------------------------
+-- Invisible Wall & Schematics Code (Solid Mesh's)
+
+-- Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+-- Copyright (C) 2020 Sokomine
+-- ---------------------------------------
 
 local wall_texture = {"default_glass.png"}
 

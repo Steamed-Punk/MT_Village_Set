@@ -1,4 +1,18 @@
--- MT_Buildings by Steamed_Punk (CC BY-NC 3.0)
+-- Licenses of media (3D Meshes and textures)
+-- ---------------------------------------
+
+-- Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+-- Copyright (C) 2019 - 2020 Steamed_Punk steamedpunk.mt at gmail.com
+
+-- ---------------------------------------
+-- Invisible Wall & Schematics Code (Solid Mesh's)
+
+-- Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+-- Copyright (C) 2020 Sokomine
+-- ---------------------------------------
+
 local path = minetest.get_modpath("mt_buildings")
 
 -- Load support for intllib.
