@@ -1,8 +1,11 @@
 # MT_Village_Set Mod for Minetest!
 
+
+**!!! A Special Thank You To SOKOMINE for the invisible wall schematics that make these models solid !!!**
+
 **!!! This is a WORK IN PROGRESS  !!!**<br>
 **!!! This is online for testing and receiving advice so as to make it work correctly  !!!**<br>
-**!!! This mod uses complexe models and large textures, designed for use on PC's  !!!**
+**!!! This mod uses complexe models and large textures, designed for use on PC's  !!!**<br>
 
 ![Image description](https://github.com/Steamed-Punk/MT_Village_Set/blob/main/screenshot.png)
 
@@ -25,7 +28,13 @@ The models and textures for this Minetest mod are
 
 ---------------------------------------------------------------------------
 # Different source code Licenses.
-Coming soon
+-- ---------------------------------------
+-- Invisible Wall & Schematics Code (Solid Mesh's)
+
+-- Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+-- Copyright (C) 2020 Sokomine
+-- ---------------------------------------
 ---------------------------------------------------------------------------
 
 Where I get my stuff:
