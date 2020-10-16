@@ -130,8 +130,6 @@ minetest.register_node("mt_buildings:hut01", {
   mesh = "hut01.obj",
   use_texture_alpha = true,
   tiles = {"GunsFREE.png"},
-  inventory_image = "GunsFREE.png",
-  wield_image = "GunsFREE.png",
   buildable_to = false,
   paramtype = "light",
   paramtype2 = "facedir",
@@ -156,8 +154,6 @@ minetest.register_node("mt_buildings:hut02", {
   mesh = "hut01.obj",
   use_texture_alpha = true,
   tiles = {"MedicFREE.png"},
-  inventory_image = "MedicFREE.png",
-  wield_image = "MedicFREE.png",
   buildable_to = false,
   paramtype = "light",
   paramtype2 = "facedir",
@@ -176,8 +172,6 @@ minetest.register_node("mt_buildings:hut03", {
   mesh = "hut01.obj",
   use_texture_alpha = true,
   tiles = {"ShopFREE.png"},
-  inventory_image = "ShopFREE.png",
-  wield_image = "ShopFREE.png",
   buildable_to = false,
   paramtype = "light",
   paramtype2 = "facedir",
@@ -196,8 +190,6 @@ minetest.register_node("mt_buildings:hut04", {
   mesh = "hut01.obj",
   use_texture_alpha = true,
   tiles = {"CottageFREE.png"},
-  inventory_image = "CottageFREE.png",
-  wield_image = "CottageFREE.png",
   buildable_to = false,
   paramtype = "light",
   paramtype2 = "facedir",
@@ -215,35 +207,35 @@ minetest.register_node("mt_buildings:hut04", {
   minetest.register_craft({
       output = "mt_buildings:hut01",
       recipe = {
-          {'', 'group:tree', ''},
-          {'','group:tree', ''},
-          {'', 'group:tree', ''},
+          {'group:tree', 'default:iron_lump', 'group:tree'},
+          {'group:tree','default:glass', 'group:tree'},
+          {'default:cobble', 'default:cobble', 'default:cobble'},
       }
   })
 
   minetest.register_craft({
       output = "mt_buildings:hut02",
       recipe = {
-          {'', '', ''},
-          {'group:tree','group:tree', 'group:tree'},
-          {'', '', ''},
+          {'group:tree', 'default:book', 'group:tree'},
+          {'group:tree','default:glass', 'group:tree'},
+          {'default:cobble', 'default:cobble', 'default:cobble'},
       }
   })
 
   minetest.register_craft({
       output = "mt_buildings:hut03",
       recipe = {
-          {'', '', 'group:tree'},
-          {'','group:tree', ''},
-          {'group:tree', '', ''},
+          {'group:tree', 'default:apple', 'group:tree'},
+          {'group:tree','default:glass', 'group:tree'},
+          {'default:cobble', 'default:cobble', 'default:cobble'},
       }
   })
 
   minetest.register_craft({
       output = "mt_buildings:hut04",
       recipe = {
-          {'group:tree', '', ''},
-          {'','group:tree', ''},
-          {'', '', 'group:tree'},
+          {'group:tree', 'farming:straw', 'group:tree'},
+          {'group:tree','default:glass', 'group:tree'},
+          {'default:cobble', 'default:cobble', 'default:cobble'},
       }
   })
