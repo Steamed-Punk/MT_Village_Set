@@ -17,7 +17,7 @@ LARGE with Steamed_Punk TEXTURES<br>
 
 Each of the 2 folders contain 4 .png images.
 
-The 4 small images are 128x128 and each one is under 50kb they have that pixel look which corrsponds with Minetest.<br>
+The 4 small images are 128x128 and each one is under 60kb they have that pixel look which corrsponds with Minetest.<br>
 The 4 LARGE images are 768x768 and each one is under under 1mb.
 
 To use the different textures after downloading you only need to open the "LARGE" folder and select all 4 images and replace the small ones in the texture folder in the MT_Village_Set MOD. Just select the "small" folder images if you want to revert back.
