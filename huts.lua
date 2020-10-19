@@ -10,7 +10,7 @@
 
 -- Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
--- Copyright (C) 2020 Sokomine
+-- Copyright (C) 2020 Sokomine at https://github.com/Sokomine
 -- ---------------------------------------
 
 -- NODES
