@@ -4,6 +4,16 @@
 -- Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 -- Copyright (C) 2019 - 2020 Steamed_Punk steamedpunk.mt at gmail.com
+-- ---------------------------------------
+
+-- License code for better lighting.
+-- ---------------------------------------
+
+-- Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+-- Copyright (C) 2020 Nathan.S at https://github.com/NathanSalapat
+-- ---------------------------------------
+
 
 -- NODES
 
