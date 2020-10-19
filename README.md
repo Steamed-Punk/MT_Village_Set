@@ -1,7 +1,8 @@
 # MT_Village_Set Mod for Minetest!
 
+**!!! Special thanks to Sokomine who generously created solids for the huts  !!!**
 
-**!!! A Special Thank You To SOKOMINE for the invisible wall schematics that make these models solid !!!**
+**!!! Special thanks to Nathan.S who generously made better lighting for the streetlights  !!!**
 
 **!!! This is a WORK IN PROGRESS  !!!**<br>
 **!!! This is online for testing and receiving advice so as to make it work correctly  !!!**<br>
