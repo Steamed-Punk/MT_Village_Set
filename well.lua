@@ -15,6 +15,8 @@ minetest.register_node("mt_buildings:well", {
   mesh = "well.obj",
   use_texture_alpha = true,
   tiles = {"Well01.jpg"},
+  inventory_image = "well_inv.png",
+  wield_image = "well_inv.png",
   buildable_to = false,
   paramtype = "light",
   paramtype2 = "facedir",
@@ -39,11 +41,11 @@ minetest.register_node("mt_buildings:well", {
   -- WELL_CRAFT
 
   minetest.register_craft({
-      output = "mt_buildings:hut01",
+      output = "mt_buildings:well",
       recipe = {
-          {'group:tree', 'group:tree', 'group:tree'},
-          {'group:tree','group:tree', 'group:tree'},
-          {'', 'group:tree', ''},
+          {'group:wood', 'group:wood', 'group:wood'},
+          {'group:tree','bucket:bucket_empty', 'group:tree'},
+          {'default:cobble', 'default:cobble', 'default:cobble'},
       }
   })
 

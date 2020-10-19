@@ -6,6 +6,7 @@
 -- Copyright (C) 2019 - 2020 Steamed_Punk steamedpunk.mt at gmail.com
 -- ---------------------------------------
 
+
 -- License code for better lighting.
 -- ---------------------------------------
 
@@ -13,7 +14,6 @@
 
 -- Copyright (C) 2020 Nathan.S at https://github.com/NathanSalapat
 -- ---------------------------------------
-
 
 -- NODES
 
@@ -24,7 +24,9 @@ minetest.register_node("mt_buildings:streetlight", {
 	drawtype = "mesh",
 	mesh = "streetlight.obj",
 	tiles = {"Lamp.png"},
-   use_texture_alpha = true,
+    use_texture_alpha = true,
+  inventory_image = "streetlight_inv.png",
+  wield_image = "streetlight_inv.png",
 	paramtype = "light",
 	paramtype2 = "facedir",
 	sunlight_propagates = true,
