@@ -173,12 +173,3 @@ minetest.register_node("mt_buildings:mtv_road_edge_corner_in", {
 })
 
 -- STREETLIGHT_CRAFT
-
-minetest.register_craft({
-		output = "mt_buildings:mtv_road_edge",
-		recipe = {
-				{'group:wood', 'group:wood',  'default:glass'},
-				{'group:wood', '',  'default:torch'},
-				{'group:wood', '',  ''},
-		}
-})
