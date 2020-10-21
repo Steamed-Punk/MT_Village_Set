@@ -27,4 +27,5 @@ dofile(path .. "/nodes_invisible_walls.lua")
 dofile(path .. "/huts.lua") -- Steamed_Punk
 dofile(path .. "/well.lua") -- Steamed_Punk
 dofile(path .. "/organic.lua") -- Steamed_Punk
+dofile(path .. "/mt_village_roads.lua") -- Steamed_Punk
 print (S("[MOD] Huts are loaded"))
